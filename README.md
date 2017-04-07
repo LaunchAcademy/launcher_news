@@ -4,7 +4,7 @@ This is a simple news site used for demoing a basic Rails 5.0 application. Requi
 
 To get up and running, run the following from your Terminal:
 
-    git clone git://github.com/LaunchAcademyEDU/launcher_news
+    git clone git@github.com:LaunchAcademy/launcher_news.git
     cd launcher_news
 
     bundle install
